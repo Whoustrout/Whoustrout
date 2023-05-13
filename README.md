@@ -1,5 +1,5 @@
 ### Selam. Ben Whoustrout 👋
-## Discord: Whoustrout
+#### Discord: Whoustrout
 
 <!--
 **Whoustrout/Whoustrout** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
