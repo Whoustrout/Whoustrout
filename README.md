@@ -1,6 +1,6 @@
 # Selam. Ben Whoustrout 👋
-## Discord: Whoustrout
-[![Discordum](https://skillicons.dev/icons?i=discord)](https://discord.com/users/989876468735688745)
+## Discord [![Whoustrout](https://skillicons.dev/icons?i=discord)](https://discord.com/users/989876468735688745)
+
 <!--
 **Whoustrout/Whoustrout** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
