@@ -2,7 +2,7 @@
 ## I am a Developer and I Generally Build: 
 <ul>
   
-  <li>Discord Bots<\li>
+  <li>Discord Bots
   <li>Artificial Intelligence(AI) Projects</li> 
   <li>Websites</li>
   <li>Robotics</li>
