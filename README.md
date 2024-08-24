@@ -1,5 +1,4 @@
-# 
-<h1>Hi. I'm Ömer but you know me as Whoustrout 👋<\h1>
+# Hi. I'm Ömer but you know me as Whoustrout 👋
 ## I am a Developer and I Generally Build: 
 <ul>
   <li>Discord Bots<\li>
