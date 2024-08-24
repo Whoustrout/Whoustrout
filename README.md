@@ -14,11 +14,7 @@
 ## 
 <h2>
   I Created This Account Because I Want To Share These With You As I Produce.
-</h2>
-<h2>
   You Can Also Follow Me on My YouTube Channel and Learn How I Do My Projects and Find Solutions to Your Possible Mistakes. 
-</h2>
-<h2>
   If you receive an error that you cannot solve, you can also contact us via Discord.
 </h2>
 
