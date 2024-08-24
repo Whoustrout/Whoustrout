@@ -1,4 +1,4 @@
-# Hi. I'm Ömer but you know me as Whoustrout 👋
+# Hi. I'm Ömer but you know and say me as Whoustrout 👋
 ## I am a Developer and I Generally Build: 
 <ul>
   
