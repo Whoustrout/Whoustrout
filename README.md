@@ -2,7 +2,7 @@
 ## I am a Developer and I Generally Build: 
 <ul>
   
-  <li>Discord Bots
+  <li>Discord Bots</li>
   <li>Artificial Intelligence(AI) Projects</li> 
   <li>Websites</li>
   <li>Robotics</li>
@@ -12,9 +12,12 @@
 </ul>
     
 ## 
-I Created This Account Because I Want To Share These With You As I Produce. 
+<p>
+  I Created This Account Because I Want To Share These With You As I Produce.
 You Can Also Follow Me on My YouTube Channel and Learn How I Do My Projects and Find Solutions to Your Possible Mistakes. 
 If you receive an error that you cannot solve, you can also contact us via Discord.
+</p>
+
 
 ## Connect With Me
 <a href="https://discord.gg/DtXMWzXB9n"> 
