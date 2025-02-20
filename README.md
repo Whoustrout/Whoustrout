@@ -13,8 +13,8 @@
     
 
 <h2>
-  I created this accound because I want to share these with you as I produce.
-  You can also follow me my YouTube channel and learn how I do my projects and find solutions to your possible mistakes. 
+  I created this accound because I want to share these with you as I produce.<br>
+  You can also follow me my YouTube channel and learn how I do my projects and find solutions to your possible mistakes. <br>
   If you receive an error that you cannot solve, you can also contact us via Discord.
 </h2>
 
