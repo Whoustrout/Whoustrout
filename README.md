@@ -36,20 +36,20 @@
 
 
 ## Connect With Me
-<a href="https://discord.gg/DtXMWzXB9n"> 
-    <img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white" title="Discord"  alt="Discord"/>
+<a href="https://discord.com/users/989876468735688745"> 
+    <img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white" title="Discord"  alt="Discord Account"/>
 </a>
 <br>
 <a href="https://www.instagram.com/whoustrout"> 
-    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" title="Instagram"  alt="Instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" title="Instagram"  alt="Instagram Account"/>
 </a>
 <br>
-<a href="https://www.youtube.com/@whoustrout"> 
-    <img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=white" title="Youtube"  alt="Youtube"/>
+<a href="https://www.youtube.com/@Whoustrout"> 
+    <img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=white" title="Youtube"  alt="Youtube Account"/>
 </a>
 <br>
 <a href="https://www.github.com/Whoustrout"> 
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" title="GitHub"  alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" title="GitHub"  alt="GitHub Account"/>
 </a>
 
 [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/989876468735688745?theme=dark&bg=000000&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/989876468735688745)
