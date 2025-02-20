@@ -23,19 +23,23 @@
 <ul>
 
 <li><h2>Python: </h2><h3>%100</h3></li>
-<li><h2>Node.JS: </h2><h3>%85</h3></li>
-<li><h2>Discord.JS: </h2><h3>%85</h3></li>
 <li><h2>HTML: </h2><h3>%95</h3></li>
 <li><h2>CSS: </h2><h3>%95</h3></li>
-<li><h2>JavaScript: </h2><h3>%95</h3></li>
+<li>
+  <h2>JavaScript: </h2><h3>%95</h3>
+  <ul type="circle">
+    <li><h2>Node.JS: </h2><h3>%85</h3></li>
+    <li><h2>Discord.JS: </h2><h3>%85</h3></li>
+    <li><h2>AOI.JS: </h2><h3>%70</h3></li>
+    <li><h2>BDScript: </h2><h3>%100</h3></li>
+    <li><h2>BDScript 2: </h2><h3>%100</h3></li>
+  </ul>
+</li>
 <li><h2>Java: </h2><h3>%80</h3></li>
-<li><h2>BDScript: </h2><h3>%100</h3></li>
-<li><h2>BDScript 2: </h2><h3>%100</h3></li>
-<li><h2>AOI.JS: </h2><h3>%70</h3></li>
 <li><h2>Lua: </h2><h3>%70</h3></li>
 
 
-## Connect With Me
+## Contact With Me
 <a href="https://discord.com/users/989876468735688745"> 
     <img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white" title="Discord Account"  alt="Discord Account"/>
 </a>
