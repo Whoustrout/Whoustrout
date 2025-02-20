@@ -12,11 +12,11 @@
 </ul>
     
 
-<h4>
+<h2>
   I created this accound because I want to share these with you as I produce.
   You can also follow me my YouTube channel and learn how I do my projects and find solutions to your possible mistakes. 
   If you receive an error that you cannot solve, you can also contact us via Discord.
-</h4>
+</h2>
 
 
 ## Programming Languages and Levels I Know:
