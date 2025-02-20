@@ -31,11 +31,11 @@
     <li><h2>Node.JS: </h2><h3>%85</h3></li>
     <li><h2>Discord.JS: </h2><h3>%85</h3></li>
     <li><h2>AOI.JS: </h2><h3>%70</h3></li>
-    <li><h2>BDScript: </h2><h3>%100</h3></li>
-    <li><h2>BDScript 2: </h2><h3>%100</h3></li>
   </ul>
 </li>
 <li><h2>Java: </h2><h3>%80</h3></li>
+<li><h2>BDScript: </h2><h3>%100</h3></li>
+<li><h2>BDScript 2: </h2><h3>%100</h3></li>
 <li><h2>Lua: </h2><h3>%70</h3></li>
 
 
