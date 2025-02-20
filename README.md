@@ -12,11 +12,11 @@
 </ul>
     
 
-<h2>
-  I Created This Account Because I Want To Share These With You As I Produce.
-  You Can Also Follow Me on My YouTube Channel and Learn How I Do My Projects and Find Solutions to Your Possible Mistakes. 
+<h4>
+  I created this accound because I want to share these with you as I produce.
+  You can also follow me my YouTube channel and learn how I do my projects and find solutions to your possible mistakes. 
   If you receive an error that you cannot solve, you can also contact us via Discord.
-</h2>
+</h4>
 
 
 ## Programming Languages and Levels I Know:
