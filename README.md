@@ -39,12 +39,15 @@
 <a href="https://discord.gg/DtXMWzXB9n"> 
     <img src="https://img.shields.io/badge/Discord-000000?style=for-the-badge&logo=discord&logoColor=white" title="Discord"  alt="Discord"/>
 </a>
+<br>
 <a href="https://www.instagram.com/whoustrout"> 
     <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" title="Instagram"  alt="Instagram"/>
 </a>
+<br>
 <a href="https://www.youtube.com/@whoustrout"> 
     <img src="https://img.shields.io/badge/YouTube-000000?style=for-the-badge&logo=youtube&logoColor=white" title="Youtube"  alt="Youtube"/>
 </a>
+<br>
 <a href="https://www.github.com/Whoustrout"> 
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" title="GitHub"  alt="GitHub"/>
 </a>
