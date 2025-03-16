@@ -56,3 +56,4 @@
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" title="GitHub Account"  alt="GitHub Account"/>
 </a>
 
+[![Discord Presence](https://lanyard.cnrad.dev/api/989876468735688745)](https://discord.com/users/989876468735688745)
