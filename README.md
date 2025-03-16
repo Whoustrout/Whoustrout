@@ -56,5 +56,5 @@
     <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" title="GitHub Account"  alt="GitHub Account"/>
 </a>
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/989876468735688745?theme=dark&bg=000000&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/989876468735688745)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/989876468735688745?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/989876468735688745)
 
